@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<species>
+		<Name>Red Maple</Name>
+		<Price>$35</Price>
+		<Life>150 years</Life>
+		
+	</species>
+	<species>
+		<Name>Oak Tree</Name>
+		<Price>$50</Price>
+		<Life>175 years</Life>
+		
+	</species>
+	<species>
+		<Name>Chestnut</Name>
+		<Price>$55</Price>
+		<Life>125 years</Life>		
+	</species>
+	<species>
+		<Name>Banana Tree</Name>
+		<Price>$20</Price>
+		<Life>10 years</Life>		
+	</species>
+	<species>
+		<Name>Sandalwood</Name>
+		<Price>$50</Price>
+		<Life>125 years</Life>		
+	</species>
+</CATALOG>
