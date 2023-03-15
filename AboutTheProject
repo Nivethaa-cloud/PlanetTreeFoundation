@@ -1,0 +1,24 @@
+Planet Tree Foundation mission is to plan resilient and sustainable parks, public spaces, and recreational amenities, build an eco-system for present and future generations, and care for public spaces. Planet-Tree system will pave the way for an effective communication between Contributors, Requesters and Volunteers who are interested to plant the trees across the regions. The idea is to design an online platform which would be capable to gather requests from the people to plant trees, gather volunteers for the requests to be executed, collect funds to organize/complete the requests. 
+
+Requirements for the Project :
+
+1.	Password Encryption: MD5 technique - inbuilt PHP technique.
+2.	Session Handling: To transfer data across the website pages.
+3.	Regular Expressions: To validate email id and mobile number.
+4.	Email Validation: To be for account creation and to reset the password.
+5.	Ajax: To check username/email availability during registration process.
+6.	PayPal: To integrate PayPal into the system for payment process.
+
+Database Platform- MySQL will be used to store the following information:
+1.	To store login and personal information.
+2.	To store requestors event details which is requested.
+3.	To store contributors card information and amount they contributed.
+4.	To store the volunteer’s information assigned to an event.
+5.	To manage inventory (plant species).
+
+Website audience: Planet-Tree system can be accessed by users with specific roles as below:
+•	Contributors - Users who wish to donate funds for Planet Tree Organization in supporting the cause of planting the trees. Anyone who has a valid credit card with sufficient funds in the account can be a contributor.
+•	Volunteers - Users who are interested in planting trees in the events organized by planet tree organization. A Lead Volunteer is a user from group of volunteers who can manage the events in the system.
+•	Requesters - Anyone or an organization who is interested in planting trees in their area with appropriate authorization. They can be an organization like municipal governments, state agencies or private land owners.
+•	Administrator - User/Users who have special privileges to maintain admin related activities like User Management, Warehouse Management, Schedule Events, To Select Lead Volunteers for an event., etc.
+
